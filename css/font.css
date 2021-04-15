@@ -1,0 +1,131 @@
+@font-face {
+    font-family: 'JSDongkang-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/JSDongkang-RegularA1.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'JSDongkang-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/JSDongkang-BoldA1.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+            
+
+
+@font-face {
+    font-family: 'ImcreSoojin';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.3/ImcreSoojin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@media(min-width: 1200px){
+    h5{
+        font: 16px 'JSDongkang-Regular';
+    }
+    h4{
+        font: 20px 'JSDongkang-Regular';
+    }
+    h3{
+        font: 25px 'JSDongkang-Bold';
+        
+    }
+    h2{
+        font: 30px 'JSDongkang-Bold';
+    }
+    h1{
+        font: 35px 'ImcreSoojin';
+    }
+}
+
+@media(max-width: 1200px){
+    h5{
+        font: 15px 'JSDongkang-Regular';
+    }
+    h4{
+        font: 18px 'JSDongkang-Regular';
+    }
+    h3{
+        font: 23px 'JSDongkang-Bold';
+        
+    }
+    h2{
+        font: 30px 'JSDongkang-Bold';
+    }
+    h1{
+        font: 33px 'ImcreSoojin';
+    }
+}
+
+@media(max-width: 800px){
+    h5{
+        font: 13px 'JSDongkang-Regular';
+    }
+    h4{
+        font: 16px 'JSDongkang-Regular';
+    }
+    h3{
+        font: 21px 'JSDongkang-Bold';
+    }
+    h2{
+        font: 26px 'JSDongkang-Bold';
+    }
+    h1{
+        font: 31px 'ImcreSoojin';
+    }
+}
+
+@media(max-width: 500px){
+    h5{
+        font: 11px 'JSDongkang-Regular';
+    }
+    h4{
+        font: 14px 'JSDongkang-Regular';
+    }
+    h3{
+        font: 19px 'JSDongkang-Bold';
+    }
+    h2{
+        font: 24px 'JSDongkang-Bold';
+    }
+    h1{
+        font: 29px 'ImcreSoojin';
+    }
+    
+}
+
+h5{
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+h4{
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+h3{
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+h2{
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+h1{
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.pink{
+    color: rgb(239, 0, 124);
+}
